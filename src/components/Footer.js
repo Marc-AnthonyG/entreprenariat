@@ -8,8 +8,7 @@ function Footer() {
     <div className="footer-container">
       <section className="footer-subscription">
         <p className="footer-subscription-heading">
-          Restez à jour de notre actualité et soyez les premiers à savoir que
-          notre site est sortie.
+          Restez à jour de notre actualité et soyez les premiers à savoir la date de sortie officielle.
         </p>
         <div className="input-areas">
           <form>

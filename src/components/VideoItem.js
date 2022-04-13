@@ -11,7 +11,7 @@ function VideoItem(props) {
           </div>
           <div className="cards__item__video">
             <ReactPlayer
-              url="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+              url="https://www.youtube.com/watch?v=lDJli70LHNQ"
               controls={true}
             />
           </div>
